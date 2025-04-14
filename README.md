@@ -63,6 +63,6 @@ P3-1
 So, P1-2 means that the robot 1 goes to the room 2, P1-3 P2-2 means that the robot 1 goes to the room 3 and the robot 2 goes to the room 2, etc.
 
 
-Feel free to add your own tests, wich you can run using make tests for functionnal tests and make test_run for unit tests.
+Feel free to add your own tests, wich you can run using make tests for functionnal tests and make tests_run for unit tests.
 
 
