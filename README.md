@@ -25,54 +25,37 @@ You should have an output like that :
 
 #rooms
 
-
 ##start
-
 
 0 1 0
 
-
 ##end
-
 
 1 13 0
 
-
 2 5 0
-
 
 3 9 0
 
-
 #tunnels
-
 
 0-2
 
-
 2-3
-
 
 3-1
 
-
 #moves
-
 
 P1-2 
 
-
 P1-3 P2-2 
-
 
 P1-1 P2-3 P3-2 
 
-
 P2-1 P3-3 
 
-
 P3-1 
-
 
 #moves shows the moves of the robots, P[number] is the name of the robot (P1 for robot 1), and -[variable] is the name of the room where the robot goes (it can be a string, a number, a float...).
 
